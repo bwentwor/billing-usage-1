@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-01-28"
+lastupdated: "2021-05-12"
 
 keywords: promo code, feature code, Subscription account, Lite account, payment, invoice, credit card, subscription code, paperless billing, billing item 
 
@@ -135,6 +135,12 @@ Yes, if your account includes any discounts, the price of the offering that is d
 Credit might take a few hours to appear in your account. To see whether a credit was added, go to **Manage > Billing and usage**, and select **Usage**. The credit might be listed in the Active subscriptions and credits section.
 
 If the credit isn't on the Usage page, go to **Invoices** and click link with the date for your next recurring invoice. If you don't see the credit on the next recurring invoice, it’s not yet added to your account. Check back later to verify that you received the credit.
+
+## How do I get answers to my Startup with IBM questions?
+{: #startup-ibm}
+{: faq}
+
+Information about the Startup with IBM Program, which was formerly the IBM Global Entrepreneur Program (GEP), is available at [Startup with IBM Program](https://developer.ibm.com/startups/){: external} web site. The awarding and extension of credits through this IBM corporate program is not directly supported by IBM Cloud Support. If your application to the program is approved, credits might be referred to as the Technology Incubator Program on an IBM Cloud Invoice. Answers to questions about the program and its credits are available in the [Frequently Asked Questions for the Startup with IBM Program](https://developer.ibm.com/startups/faq){: external}. 
 
 ## How do I get support?
 {: #contactsupport}
