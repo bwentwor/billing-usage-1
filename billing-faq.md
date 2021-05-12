@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-01-28"
+lastupdated: "2021-05-12"
 
 keywords: promo code, feature code, Subscription account, Lite account, payment, invoice, credit card, subscription code, paperless billing, billing item 
 
@@ -72,7 +72,8 @@ You might manage your payment method on a separate billing platform. You can eas
 
 You must have an active credit card or PayPal account on file. You can replace an existing credit card with a new one. 
 
-* As of 10 December 2020, if you're using a new US-based Pay-As-You-Go account with credit card billing, you can replace your credit card by going to the [Support Center](https://{DomainName}/unifiedsupport/supportcenter){: external} and opening a support case. 
+* As of 10 December 2020, if you're using a new US-based Pay-As-You-Go account with credit card billing, you can replace your credit card by going to the [
+Center](https://{DomainName}/unifiedsupport/supportcenter){: external} and opening a support case. 
 * For all other accounts, you can remove a credit card and switch to a different payment method by clicking **Pay with Other** > **Submit change request**. To complete the change, review and update the support case that is created for you.
 * If you manage your payment method on a separate billing platform, you can remove your credit card by going to [{{site.data.keyword.IBM_notm}} Billing](https://myibm.ibm.com/billing/){: external}. 
 
@@ -139,8 +140,7 @@ If the credit isn't on the Usage page, go to **Invoices** and click link with th
 ## How do I get support?
 {: #contactsupport}
 {: faq}
-
-Click **Support** in the console menu bar to access the Support Center. From there, start with leveraging the list of common FAQs. If you don't find the answers that you need, see the **Need more help?** section to contact IBM Cloud support.
+Go to the [Support Center](https://{DomainName}/unifiedsupport/supportcenter){: external}[Support](https://{DomainName}/billing/promotions) page in the console. From there, review the list of common FAQs. If you don't find the answers that you need, see the **Contact Support** section to contact IBM Cloud Support.
 
 ## Where can I view the billing address for my account? 
 {: #billing-address}
